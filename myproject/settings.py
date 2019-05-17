@@ -25,7 +25,7 @@ SECRET_KEY = '$svz7n!f_=2%ct&7w$$(_6a@t6+sz27g@asio96j50tnrh@!h('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://Laboni.pythonanywhere.com/']
+ALLOWED_HOSTS = ['Laboni.pythonanywhere.com']
 
 
 # Application definition
